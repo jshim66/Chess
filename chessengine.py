@@ -1,8 +1,3 @@
-"""
-responsible for storing all the information about current state oh a chess game
-responsible for determining valid moves
-responsible for move log
-"""
 class GameState():
     def __init__(self):
         # board is a 8x8 2d list, each element is 2 characters
